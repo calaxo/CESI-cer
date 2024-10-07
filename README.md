@@ -5,7 +5,7 @@
     choix du prisonnier:
         theoreme de nash(esque il vaut mieux coopérer)
 
-    `
+    ```python
 # pluie
 #marc
 A = np.array([[-50, -150],
@@ -51,4 +51,6 @@ for eq in equilibria:
     print("soleil",eq)
     
 
-    `
+    ```
+
+# autre
