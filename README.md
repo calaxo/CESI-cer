@@ -4,6 +4,7 @@
 
     choix du prisonnier:
         theoreme de nash(esque il vaut mieux coopérer)
+### en python
 
 ```python
 
@@ -46,6 +47,6 @@ for eq in equilibria:
     print("soleil",eq)
     
 
-    ```
+```
 
-# autre
+### en math normal
