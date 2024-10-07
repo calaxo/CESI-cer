@@ -50,3 +50,10 @@ for eq in equilibria:
 ```
 
 ### en math normal
+
+$$
+\begin{align}
+  \tag{1.1}
+  V_{sphere} = \frac{4}{3}\pi r^3
+\end{align}
+$$
