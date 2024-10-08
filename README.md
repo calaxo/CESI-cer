@@ -51,6 +51,9 @@ for eq in equilibria:
 
 ### en math normal
 
+calcul pour l'équilibre de nash
+qui permet d'obtenir le choix pour chacun qui permet d'etre bien meme si l'autre change de choix
+
 $$
 \begin{align}
   \tag{1.1}
