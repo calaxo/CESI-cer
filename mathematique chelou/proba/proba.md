@@ -1,7 +1,3 @@
-# CESI-cge
-
-## proba
-
     choix du prisonnier:
         theoreme de nash(esque il vaut mieux coopérer)
 ### en python
@@ -49,7 +45,7 @@ for eq in equilibria:
 
 ```
 
-### en math normal
+### En math normal
 
 calcul pour l'équilibre de nash
 qui permet d'obtenir le choix pour chacun qui permet d'etre bien meme si l'autre change de choix
