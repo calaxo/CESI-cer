@@ -19,8 +19,12 @@
             "id": "c5434c030e2ca622",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "mathematique chelou/statistique/statistique.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mathematique chelou/statistique/statistique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mathematique chelou/statistique/statistique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mathematique chelou/statistique/statistique.md"
+              }
             }
           }
         ]
@@ -149,12 +157,12 @@
   },
   "active": "c5434c030e2ca622",
   "lastOpenFiles": [
+    "mathematique chelou/proba/proba.md",
+    "mathematique chelou/statistique/statistique.md",
     "trace de cours.md",
     "mathematique chelou/math.md",
     "2024-10-08.md",
-    "mathematique chelou/proba/proba.md",
     "mathematique chelou",
-    "mathematique chelou/statistique/statistique.md",
     "mathematique chelou/statistique"
   ]
 }
