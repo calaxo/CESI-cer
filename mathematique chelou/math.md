@@ -1,8 +1,0 @@
-## proba
-
-[[proba]]
-
-
-## statistique
-
-[[statistique]]
