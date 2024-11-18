@@ -45,19 +45,19 @@ serveur mandataire et proxy pour eviter site interdit pour etre plus rapide
 # Module 4 : Sécurité du poste de travail et nomadisme:
 
 ## Applications et mises à jour :
-pour eviter l'obsolecence
-sécurité par l'obscurité: eclaté
+pour éviter l'obsolescence
+sécurité par l'obscurité: éclaté
 ou
-divulagation de vulnérabilité
-faille 2day avec reseaux criminnel,etatique,etc
+divulgation de vulnérabilité
+faille 2day avec réseaux criminels, étatique, etc
 
-ne metre que les truc utilise sur les apareils
-extension, aplication suplementaire et bloatware
+ne mettre que les truc utilise sur les appareils
+extension, application supplémentaires et bloatware
 ## Options de configuration de base :
-mot de passe>pin et chifrement
-antimalware sur apareil(antimalware(intégré ou dédié,pare-feu, controle parental )
-donnée specifique au mobile( localisation  et collecte de données)
-chifrement
+mot de passe>pin et chiffrement
+antimalware sur appareil(antimalware(intégré ou dédié, pare-feu, contrôle parental )
+donnée spécifique au mobile( localisation  et collecte de données)
+chiffrement
 
 ## Configurations complémentaires :
 gestion de base des comptes utilisateurs
@@ -66,42 +66,43 @@ sauvegarde et connexion de l'apareil
 
 ## Sécurité des périphériques amovibles :
 risque au branchement( autorun)
-chifrement
+chiffrement
 durabilité
 effacement sécurisé
 
 ## Séparation des usages :
-professionnel/personnel pour proteger les deux partie
+professionnel/personnel pour protéger les deux partie
 utilisateur/administrateur
-plusieurs separation
+plusieurs séparation
 mail personnel:
-	reseaux sociaux
+	réseaux sociaux
 	achat
 	etc...
 
-le BYOD(bring your own device) peut etre dangereux:
+le BYOD(bring your own device) peut être dangereux:
 sécurité pas forcement gérée par l'entreprise
-plus de risque de perte ou usage par un tier du materiel informatique
+plus de risque de perte ou usage par un tiers du matériel informatique
 ## terme technique
 
 
-SI : système d'information
+SI : Système d'Information
 
-MOOC : 
+MOOC : Massive Open Course Online 
 
-ANSSI :
+ANSSI : Agence Nationale de la Sécurité des Systèmes d'Information
 
-CNIL :
+CNIL : Commision Nationale de l'Informatique et des Libertés
 
-CTO : chief
+CTO : Chief Technical Officer (directeur des nouvelle technologies)
 
-DSI :
+DSI : Directeur des Systèmes d'Information
 
-RSSI :
+RSSI : Responsable Sécurité des Systèmes d'i
+Information
 
-PSSI : politique de sécurité des systèmes d’information
+PSSI : Politique de Sécurité des Systèmes d’Information
 
-RSI : responsable systeme d'information
+RSI : Responsable Systeme d'Information
 
 
 
