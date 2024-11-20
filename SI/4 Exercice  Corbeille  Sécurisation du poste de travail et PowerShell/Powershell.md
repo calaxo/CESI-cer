@@ -1,14 +1,18 @@
 écrit en UpperCamelCase et non  lowerCamelCase c'est aussi appelé PascalCase
 
 sécurité :
-	Get-ExecutionPolicy :
+	```
+``` powershell
+Get-ExecutionPolicy 
+```
+:
 		- sur Windows 10/11 de base c'est sur  Restricted du coup on peut rien lancer
 		- sauf avec : Set-ExecutionPolicy RemoteSigned
 		- sur Windows server c'est sur RemoteSigned 
 		- il y a une détection pour faire fonctionner que les script local et pas ceux du WEB (Mark Of The Web comme pour les fichiers office)
 
 	$passwd = Read-Host "Tapez le mot de passe associé :" –AsSecureString
-–AsSecureString poue le Read-Host permet de rentrer du texte qui peut ps etre chopper par d'autre programme
+–AsSecureString pour le Read-Host permet de rentrer du texte qui peut ps etre chopper par d'autre programme
 
 
 
@@ -39,10 +43,13 @@ Un script qui peut être long mais pour des raisons de vérification. Ecrivez bi
 
  $passwd = Read-Host "Tapez le mot de passe associé :" –AsSecureString 
 
+``` powershell
 $passwd_confirm = Read-Host "Retapez le mot de passe pour vérification :" –AsSecureString 
-
+```
  # vu que les mots de passe sont mis en secure string, on les passe en binaire pour comparaison sinon pas de comparaison possible 
 
+
+``` powershell
  $pwd1_text = [Runtime.InteropServices.Marshal]::PtrToStringAuto([Runtime.InteropServices.Marshal]::SecureStringToBSTR($passwd)) 
 
  $pwd2_text = [Runtime.InteropServices.Marshal]::PtrToStringAuto([Runtime.InteropServices.Marshal]::SecureStringToBSTR($passwd_confirm)) 
@@ -70,3 +77,4 @@ write-Host "Le compte utilisateur de $fullName est créé."; 
  # attention les Windows Anglais ont le groupe nommé "Administrators" 
 
  Add-LocalGroupMember -Group 'Administrators' -Member ($userName) –Verbose 
+ ```

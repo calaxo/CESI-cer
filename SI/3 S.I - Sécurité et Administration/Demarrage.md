@@ -22,10 +22,15 @@ et récupérer le ifIndex ( InterfaceIndex)
 
 
 ###  commande pour assigner une adresse de passerelle a notre réseaux
-	New-NetIPAddress -IPAddress 192.168.10.254 -PrefixLength 24 -InterfaceIndex 23
+``` powershell
+New-NetIPAddress -IPAddress 192.168.10.254 -PrefixLength 24 -InterfaceIndex 23
+```
+
 	
 ###  commande pour assigner une plage d'adresse interne a notre reseaux
-	New-NetNat -Name NAT-OUT -InternalIPInterfaceAddressPrefix 192.168.10.0/24
+``` powershell
+New-NetNat -Name NAT-OUT -InternalIPInterfaceAddressPrefix 192.168.10.0/24
+```
 
 
 ![[Pasted image 20241115090615.png]]

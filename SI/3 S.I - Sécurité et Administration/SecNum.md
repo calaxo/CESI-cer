@@ -6,7 +6,11 @@
 ## Un monde à hauts risques :
 
 ## Les acteurs de la cybersécurité :
-
+france impliqué
+Opérateur d'importance vitale
+energie armée espace et tout
+donc la france doit former aider 
+**une administration, une entreprise publique ou privée dont l'Etat a jugé le fonctionnement indispensable à la vie de la nation**
 ## Protéger le cyberespace :
 
 ## Les règles d’or de la sécurité :
@@ -17,11 +21,23 @@
 
 ## Attaques sur les mots de passe :
 
+ataque par permutation:
+
+test les mdp comme:
+c@r0tt3
+au lieu de carotte
+
 ## Sécuriser ses mots de passe :
 
 ## Gérer ses mots de passe :
 
 ## Notions de cryptographie :
+
+Le principe de Kerckhoffs
+ Chiffrement symétrique  pas fou meme clé des deux cote
+chifrement asymetrique super bien une clé diferente des deux coté
+
+clé privée de l’IGC pour certificat
 # Module 3 : Sécurité sur Internet:
 ## Internet : de quoi s’agit-il  :
 
@@ -59,6 +75,10 @@ antimalware sur appareil(antimalware(intégré ou dédié, pare-feu, contrôle p
 donnée spécifique au mobile( localisation  et collecte de données)
 chiffrement
 
+## Concept de vulnérabilité
+
+CERTTM (Computer Emergency Response Team)
+PRINCIPES DE DIVULGATION DE VULNÉRABILITÉ
 ## Configurations complémentaires :
 gestion de base des comptes utilisateurs
 gestion avancée des utilisateur

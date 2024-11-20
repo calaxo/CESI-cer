@@ -1,4 +1,4 @@
-
+[[DNS]]
 
 vient donner une adresse IP( c la base logique)
 
