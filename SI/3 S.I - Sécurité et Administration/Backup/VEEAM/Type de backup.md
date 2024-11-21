@@ -24,3 +24,9 @@ restauration longue et complexe
 
 
 compression et deduplication
+
+
+![[Sans-titre-2024-11-21-1214.excalidraw]]
+
+
+![[Pasted image 20241121121601.png]]

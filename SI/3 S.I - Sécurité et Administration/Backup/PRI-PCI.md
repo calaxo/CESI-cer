@@ -13,11 +13,13 @@ RTO RPO
 
 
 ## RPO:
-objectif de restauration, quel données on veut remtre en place si sa merde
+objectif de restauration, quel données on veut remettre en place si sa merde
 
 
 ## RTO:
 durée d'interuption max quon peut supporter
+
+
 
 
 
