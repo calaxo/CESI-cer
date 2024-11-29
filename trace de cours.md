@@ -1,3 +1,0 @@
-# CESI-cge
-
-[[math]]
