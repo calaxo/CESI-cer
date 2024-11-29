@@ -1,0 +1,1 @@
+adresse IP(nat) virtuelle qui pointe vers une autre interface avec redirection 

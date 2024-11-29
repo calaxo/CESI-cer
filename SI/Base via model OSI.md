@@ -27,14 +27,14 @@ compression
 ## adressing trouver le meilleur chemin pour la data
 [[mib snmp]]
 [[IP]]
-
+[[NAT]]
 # 2 Data Link Layer
 
 ## pour que la data aille au meilleur chemin
 
 MAC 
 LAN
-[[SI/Protocol/VLAN]]
+[[SI/Protocol et Services/VLAN]]
 
 # 1 Physical Layer
 ## bouger les bits d'un point a un autre via des medium
