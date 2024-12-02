@@ -5,7 +5,11 @@ express framework de nodejs
 [[express]]
 
 react en front
-[[_react]]
+[[REACT]]
 
 nodejs en back
-[[_nodejs]]
+[[nodejs]]
+
+meme language pour front et back:
+[[JS]]
+

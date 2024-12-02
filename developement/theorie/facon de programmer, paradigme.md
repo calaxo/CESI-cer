@@ -1,5 +1,5 @@
 
-
+[[nomage]]
 
 
 > paradigme de programmation
@@ -25,4 +25,25 @@ ecriture:
 > - [[paradigme programmation orientée objet|programmation orientée objet]]
 >     - on considère un programme comme un ensemble d'objets qui intéragissent
 > - [[paradigme programmation fonctionnelle|programmation fonctionnelle]]
->     - on considère un programme comme l'évaluation de fonctions sans état
+>     - on considère un programme comme l'évaluation de fonctions sans état.
+
+
+
+[[procedurale]]
+
+
+respecter 
+
+[[complexité du code]]
+
+
+## objet etrange
+
+[[hashmap]]
+
+[[graphe]]
+
+
+
+
+c quel algorithme pour [[wear leveling]]

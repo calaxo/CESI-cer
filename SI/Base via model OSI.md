@@ -28,6 +28,11 @@ compression
 [[mib snmp]]
 [[IP]]
 [[NAT]]
+[[pFsense]]
+routeur
+
+
+
 # 2 Data Link Layer
 
 ## pour que la data aille au meilleur chemin
@@ -35,6 +40,7 @@ compression
 MAC 
 LAN
 [[SI/Protocol et Services/VLAN]]
+[[DHCP]]
 
 # 1 Physical Layer
 ## bouger les bits d'un point a un autre via des medium

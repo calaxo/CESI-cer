@@ -12,3 +12,6 @@
     - Taille maximale du journal de sécurité : 4 Go
         
     - Méthode de conservation du journal de sécurité : « Remplacer les événements si nécessaire ».
+
+
+[[Manip]]

@@ -212,3 +212,6 @@ Create-OU -OUName "Autre" -ParentPath $OUServeurs
 Write-Host "Arborescence AD créée avec succès."
 
 ```
+
+créée grace a 
+[[boucle user active directory]]

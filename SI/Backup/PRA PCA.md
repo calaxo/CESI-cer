@@ -37,4 +37,12 @@ temp de remise en place
 raid 1 et 0 (miroir et repartition)
 
 
+[[PRI-PCI]]
 
+[[3-2-1]]
+
+
+
+
+trés connu et pratique:
+[[Veeam]]

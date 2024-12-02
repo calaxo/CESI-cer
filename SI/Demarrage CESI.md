@@ -1,12 +1,9 @@
 
 j'ai utiliser hyperV au lieu de oracle VirtualBox
-
-je suis plus habitué et niveau d'hyperviseur plus bas 1 au lieu de 2
-
-
+[[Virtualisation]]
 
 # Infra:
-
+[[Base via model OSI]]
 
 ![[Pasted image 20241115084942.png]]
 pour eviter que les VM choppent le dhcp du reseaux de cesi ou de mon partage de CO il a fallu fair un reseaux NAT
@@ -58,3 +55,6 @@ j'ai aussi créer un domaine sur DC1 sur lequel je peux me connecter via la VM w
 
 
 
+
+
+[[comment fair un projet]]

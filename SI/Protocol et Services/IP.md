@@ -50,3 +50,7 @@ Paquet tracee
   
   
 Broadcast fair gaffe a pas avoir une trop grande surface de diffusion
+
+cours:
+
+[[liste PDF IP]]
