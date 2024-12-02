@@ -11,10 +11,14 @@
             "id": "054f84f0c404b090",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "SI/CyberSecu/base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "base"
             }
           }
         ]
@@ -163,14 +167,20 @@
   },
   "active": "054f84f0c404b090",
   "lastOpenFiles": [
+    "Pasted image 20241202172137.png",
+    "SI/CyberSecu/base.md",
+    "developement/language/powershell/user creation/boucle user active directory.md",
+    "developement/language/powershell/script ajout sous domaine.md",
+    "developement/language/powershell/installation rôle.md",
+    "developement/language/powershell/creation agdlp.md",
+    "developement/language/powershell/Base powershell.md",
+    "developement/language/powershell/AD DS.md",
     "developement/language/nodejs/nodejs.md",
     "SI/OS/OS vs bios.md",
     "SI/OS/windows/base windows.md",
     "SI/OS/BIOS.md",
-    "developement/language/powershell/Base powershell.md",
     "developement/WEB.md",
     "SI/Demarrage CESI.md",
-    "developement/language/powershell/AD DS.md",
     "SI/Base via model OSI.md",
     "developement/theorie/facon de programmer, paradigme.md",
     "SI/physique/stockage/wear leveling.md",
@@ -184,13 +194,7 @@
     "developement/language/nodejs/express.md",
     "developement/language/nodejs",
     "developement/language/NodeJs.md",
-    "SI/physique/stockage/RAID.md",
     "Untitled.canvas",
-    "SI/OS/windows/server ad et tout/AD DS/arbre/Unité Organisationelle.md",
-    "SI/OS/windows/server ad et tout/GPO/GPO.md",
-    "SI/OS/windows/bitlocker.md",
-    "SI/OS/windows/server ad et tout/GPO/Manip.md",
-    "developement/language/JS/JS.md",
     "SI/OS/linux/2024--INF236-Linux configuration des services et plus... V7.0.pdf",
     "SI/OS/linux/caisse a outils linuxienne.pdf",
     "SI/OS/linux/PDF",
@@ -209,7 +213,6 @@
     "SI/stockage/image/Pasted image 20241122154954.png",
     "SI/stockage/image/Pasted image 20241121121601.png",
     "SI/stockage/image/Pasted image 20241120170655.png",
-    "SI/stockage/image/Pasted image 20241120170643.png",
     "Untitled 1.canvas"
   ]
 }
