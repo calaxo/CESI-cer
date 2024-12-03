@@ -11,3 +11,6 @@ pour ce balader dans les info d'un apareil via snmp on utilise l'arbre snmp
 
 avec juste des numero pour savoir ou aller dans l'arbre genre:
 OID=1.3.6.1.2.1.26
+
+
+pour acceder au groupe smnp faut juste un identifiant et mod de passe
