@@ -204,11 +204,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b5eac0409e78657f",
   "lastOpenFiles": [
+    "developement/language/powershell/veeam/lancement de replicas si la VM est off.md",
+    "developement/language/powershell/veeam",
+    "Pasted image 20241209232426.png",
+    "Pasted image 20241209232408.png",
+    "Pasted image 20241209231447.png",
+    "Pasted image 20241209231428.png",
+    "Pasted image 20241209230834.png",
+    "Pasted image 20241209230815.png",
+    "Pasted image 20241209230721.png",
     "developement/language/powershell/creation agdlp.md",
     "developement/language/powershell/script ajout sous domaine.md",
     "developement/language/powershell/installation rôle.md",
@@ -239,7 +249,6 @@
     "SI/OS/windows/base windows.md",
     "SI/OS/BIOS.md",
     "developement/WEB.md",
-    "developement/theorie/facon de programmer, paradigme.md",
     "developement/language/nodejs",
     "Untitled.canvas",
     "SI/OS/linux/2024--INF236-Linux configuration des services et plus... V7.0.pdf",
@@ -247,15 +256,7 @@
     "SI/OS/linux/PDF",
     "SI/OS/linux/TUTORIEL-INSTALLER-LAMP-SUR-DEBIAN-12.1.pdf",
     "SI/Protocol et Services/IP pdf/01 - VLAN - trunk et interVlan - Cours labo Cisco.pdf",
-    "SI/stockage/GetImage.png",
     "SI/Protocol et Services/IP pdf/01-adressage IP - Exercices sur l'adressage IPv4.pdf",
-    "SI/Protocol et Services/IP pdf/12-3-DTP – ou comment être fainéant avec le Trunk.pdf",
-    "SI/stockage/Exemple-dOID-dans-un-arbre-dinformation-de-gestion-SNMP35-1632-La-syntaxe-et-le.png",
-    "SI/stockage/download.svg",
-    "SI/stockage/image/Pasted image 20241115084942.png",
-    "SI/stockage/image/Pasted image 20241129220302.png",
-    "SI/stockage/image/Pasted image 20241122162729.png",
-    "SI/stockage/image/Pasted image 20241122154954.png",
     "Untitled 1.canvas"
   ]
 }
