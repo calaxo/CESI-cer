@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,8 +208,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5eac0409e78657f",
+  "active": "bfb46d754845b984",
   "lastOpenFiles": [
+    "SI/CyberSecu/SecNum.md",
     "developement/language/powershell/veeam/lancement de replicas si la VM est off.md",
     "developement/language/powershell/veeam",
     "Pasted image 20241209232426.png",
@@ -248,7 +249,6 @@
     "SI/OS/OS vs bios.md",
     "SI/OS/windows/base windows.md",
     "SI/OS/BIOS.md",
-    "developement/WEB.md",
     "developement/language/nodejs",
     "Untitled.canvas",
     "SI/OS/linux/2024--INF236-Linux configuration des services et plus... V7.0.pdf",

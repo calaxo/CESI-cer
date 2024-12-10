@@ -69,3 +69,7 @@ usurpation adresse mac giga giga necessaire pour que la redondancde e pfsense pu
 type de noeud hybride winsows ipcpnfig /all
 
 routeur on a stick
+
+
+
+
