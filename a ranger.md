@@ -66,49 +66,10 @@ https://general.sio57.info/wp/?p=1415
 usurpation adresse mac giga giga necessaire pour que la redondancde e pfsense puisse marcher
 
 
+type de noeud hybride winsows ipcpnfig /all
 
-stun(session travel utilites fpr nat)
-
-
-amd genoa-X the 1.1GB l3 chau cpu
+routeur on a stick
 
 
-time constant time programming
 
-killswitch homelab
-
-session replay site analityc et le combat des session replay avec les adblocker
-
-https://en.fofa.info/
-
-route universal plug and play printer port
-
-cluster a basculement hyper-V
-
-
-SMBv3
-
-ISCSI
-
-runaway ml
-
-
-modele generation d'dimage en local
-
-claude 305
-
-rsync vs robocopy
-
-les couche du syste windows jusqua MS-DOS
-
-why 128 thread is the max for any app on server
-
-hardware acceleration
-
-port 11 rcpbind c quoi ce port ouvert sur proxmox 
-
-
-ycruncher pour test performance
-
-totp authenticiation
 
