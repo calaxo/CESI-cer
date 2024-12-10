@@ -64,3 +64,8 @@ https://general.sio57.info/wp/?p=1415
 
 
 usurpation adresse mac giga giga necessaire pour que la redondancde e pfsense puisse marcher
+
+
+type de noeud hybride winsows ipcpnfig /all
+
+routeur on a stick

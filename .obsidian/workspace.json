@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mot de passe,comunauté snmp.md",
+                "file": "SI/CyberSecu/SecNum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mot de passe,comunauté snmp"
+              "title": "SecNum"
             }
           }
         ],
@@ -86,7 +86,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -197,19 +197,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "markdown-importer:Ouvrir l'importateur Markdown": false,
-      "publish:Publier les modifications": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "b5eac0409e78657f",
   "lastOpenFiles": [
+    "developement/language/powershell/creation agdlp.md",
+    "developement/language/powershell/script ajout sous domaine.md",
+    "developement/language/powershell/installation rôle.md",
+    "developement/language/powershell/AD DS.md",
+    "developement/language/powershell/user creation/boucle user active directory.md",
+    "SI/Demarrage CESI.md",
     "a ranger.md",
+    "SI/Base via model OSI.md",
     "mot de passe,comunauté snmp.md",
     "Pasted image 20241205112109.png",
     "mot clé.md",
@@ -219,21 +226,14 @@
     "developement/language/Untitled.md",
     "developement/language/powershell/script hyper V powershell/STOP.md",
     "developement/language/powershell/script hyper V powershell/DESTROY.md",
-    "developement/language/powershell/script ajout sous domaine.md",
-    "developement/language/powershell/installation rôle.md",
-    "developement/language/powershell/creation agdlp.md",
     "developement/language/powershell/Base powershell.md",
-    "developement/language/powershell/AD DS.md",
-    "SI/Demarrage CESI.md",
     "SI/Protocol et Services/mib snmp.md",
     "developement/language/powershell/script hyper V powershell/DEPLOY.md",
     "developement/language/powershell/script hyper V powershell/START.md",
     "SI/supervision/zabbix.md",
     "SI/supervision",
-    "SI/Base via model OSI.md",
     "Pasted image 20241202172137.png",
     "SI/CyberSecu/base.md",
-    "developement/language/powershell/user creation/boucle user active directory.md",
     "developement/language/nodejs/nodejs.md",
     "SI/OS/OS vs bios.md",
     "SI/OS/windows/base windows.md",
