@@ -71,5 +71,6 @@ type de noeud hybride winsows ipcpnfig /all
 routeur on a stick
 
 
+c quoi sr-iov dans hyper V
 
-
+c'est quoi la difernece entre ip et ipx
