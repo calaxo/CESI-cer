@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developement/language/powershell/user creation/boucle user active directory.md",
+                "file": "developement/language/powershell/script hyper V powershell/STOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "boucle user active directory"
+              "title": "STOP"
             }
           },
           {
@@ -114,9 +114,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "9e6e930a237d82a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -260,31 +274,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69b15cc573563b47",
+  "active": "9e6e930a237d82a7",
   "lastOpenFiles": [
-    "script NAS.md",
-    "script DC1.md",
-    "script projet HV1.md",
-    "developement/language/powershell/user creation/boucle user active directory.md",
+    "developement/language/powershell/script hyper V powershell/STOP.md",
+    "Untitled.md",
+    "developement/language/powershell.zip",
     "developement/language/powershell/creation agdlp.md",
+    "developement/language/powershell/Base powershell.md",
+    "developement/language/powershell/AD DS.md",
+    "developement/language/powershell/script ajout sous domaine.md",
+    "developement/language/powershell/installation rôle.md",
+    "developement/language/powershell/script hyper V powershell/regle firewall pour zabbix.md",
+    "developement/language/powershell/script hyper V powershell/passer la connection en privée.md",
+    "developement/language/powershell/script hyper V powershell/autoriser ping windows.md",
+    "developement/language/powershell/script hyper V powershell/autoriser nested virtualisation.md",
+    "developement/language/powershell/user creation/boucle user active directory.md",
+    "script DC1.md",
+    "script NAS.md",
+    "mot clé.md",
+    "SI/Protocol et Services/mib snmp.md",
+    "script projet HV1.md",
     "script HV2.md",
     "script HV-Services.md",
     "SI/OS/windows/server ad et tout/GPO/GPO.md",
     "SI/OS/windows/server ad et tout/GPO/Manip.md",
-    "developement/language/powershell/script hyper V powershell/autoriser nested virtualisation.md",
-    "mot clé.md",
-    "developement/language/powershell/script hyper V powershell/regle firewall pour zabbix.md",
-    "SI/Protocol et Services/mib snmp.md",
     "developement/language/powershell/veeam/lancement de replicas si la VM est off.md",
-    "developement/language/powershell/AD DS.md",
-    "developement/language/powershell/script hyper V powershell/autoriser ping windows.md",
     "developement/language/powershell/script hyper V powershell/DEPLOY.md",
     "developement/language/powershell/script hyper V powershell/START.md",
-    "developement/language/powershell/script hyper V powershell/passer la connection en privée.md",
-    "developement/language/powershell/Base powershell.md",
     "a ranger.md",
     "SI/CyberSecu/base.md",
-    "developement/language/powershell/script ajout sous domaine.md",
     "Pasted image 20241209232426.png",
     "Pasted image 20241209232408.png",
     "Pasted image 20241209231447.png",
@@ -292,13 +310,10 @@
     "Pasted image 20241209230834.png",
     "Pasted image 20241209230815.png",
     "Pasted image 20241209230721.png",
-    "mot de passe,comunauté snmp.md",
     "developement/language/powershell/veeam",
     "Pasted image 20241205112109.png",
     "Pasted image 20241204144709.png",
-    "developement/language/BDD et SQL/relation.md",
     "developement/language/BDD et SQL",
-    "developement/language/Untitled.md",
     "SI/supervision",
     "Pasted image 20241202172137.png",
     "developement/language/nodejs",
@@ -308,7 +323,6 @@
     "SI/OS/linux/PDF",
     "SI/OS/linux/TUTORIEL-INSTALLER-LAMP-SUR-DEBIAN-12.1.pdf",
     "SI/Protocol et Services/IP pdf/01 - VLAN - trunk et interVlan - Cours labo Cisco.pdf",
-    "SI/Protocol et Services/IP pdf/01-adressage IP - Exercices sur l'adressage IPv4.pdf",
     "Untitled 1.canvas"
   ]
 }

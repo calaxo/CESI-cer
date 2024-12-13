@@ -9,7 +9,7 @@
 
 # Définir les informations de base pour votre domaine
 
-$BaseDN = "DC=zinzin,DC=main,DC=fr"
+$BaseDN = "DC=domaine,DC=assuranceplusss,DC=fr"
 
   
 
