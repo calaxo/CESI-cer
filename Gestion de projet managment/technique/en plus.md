@@ -14,3 +14,11 @@ et cqoqccp
 
 
 Eviter le « plus » et le « moins » que quelque chose (comparatif et quantifier).
+
+ccna et tout
+
+paquet tracer
+
+netacad
+
+

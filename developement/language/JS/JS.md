@@ -1,5 +1,5 @@
 [[objets]]
 
-[[fonction]]
+[[developement/language/JS/fonction]]
 
 [[array]]
