@@ -71,5 +71,19 @@ type de noeud hybride winsows ipcpnfig /all
 routeur on a stick
 
 
+architecture mono repo
 
 
+complexity of cide
+
+
+styes componet
+
+appwrite site saas 
+
+lociciel mcd looping
+
+
+
+
+comment comuniquer ave les seveur lorsque que la base est gigantesque
