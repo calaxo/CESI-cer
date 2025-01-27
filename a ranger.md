@@ -163,12 +163,6 @@ at wich point do i need to separe ad ds dhcp and dns on multiple VM
 
 
 
-pour  etonnement 
-
-
-Bien definir le terme friction quite a briser le quatrième mur(genre lorsque vous antendais a ce cela soit logique que lorsuqe vous cliquer sur une page cela aille sur la page concernée( et pas avoir a cliquer 36mille fois partout ) et qui plus ais rapidement et se ayant confiance au service informatique (dont je suis repsponsable sans en etre le responsable ta capté)  
-  
-Concept liée a l'ux/ui mis appliqué a tout
 
 
 [https://www.it-connect.fr/effectuer-sysprep-windows-11-24h2/](https://www.it-connect.fr/effectuer-sysprep-windows-11-24h2/)  
@@ -256,4 +250,36 @@ google mendiant
 
 
 crowdstrike gui
+
+carré de polybe
+
+hash collision
+
+type de reseau gerne n tier
+3 tier: data, presentation, accés
+
+
+pas vlan 1 mais vlan natif quan meme definissable
+
+hsrp protocl sous les carp et ip virtuel de pfsense
+
+c quoi le metier ingenierie de projet systeme
+
+
+contact recrutement rh.altioremt.fr
+
+
+est-ce que achronis cyber protect c bien
+
+hsrp ip
+
+ebios rm 
+
+iso 2700x
+
+iec 62443
+
+edr siem
+
+regle sigma
 
