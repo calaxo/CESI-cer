@@ -1,6 +1,6 @@
 
 ![[Pasted image 20241122162729.png]]
-
+Prenom,Nom,SAM,Domaine,Password Jean,Dupont,jdupont,mondomaine.local,P@ssw0rd! Marie,Durand,mdurand,mondomaine.local,P@ssword123 Paul,Martin,pmartin,mondomaine.local,123P@ssword!
 
 ``` powershell
 # Importer le module Active Directory si nécessaire

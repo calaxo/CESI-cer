@@ -87,3 +87,6 @@ lociciel mcd looping
 
 
 comment comuniquer ave les seveur lorsque que la base est gigantesque
+c quoi sr-iov dans hyper V
+
+c'est quoi la difernece entre ip et ipx

@@ -39,3 +39,21 @@ Write-Host "Configuration completed!" -ForegroundColor Green
 
 ca marche comment New PSSession en powershell notament pour executer du code dans dees VM
 
+#
+# Script Windows PowerShell pour le déploiement d’AD DS
+#
+
+Import-Module ADDSDeployment
+Install-ADDSForest `
+-CreateDnsDelegation:$false `
+-DatabasePath "C:\Windows\NTDS" `
+-DomainMode "WinThreshold" `
+-DomainName "domaine.assuranceplusss.fr" `
+-DomainNetbiosName "DOMAINE" `
+-ForestMode "WinThreshold" `
+-InstallDns:$true `
+-LogPath "C:\Windows\NTDS" `
+-NoRebootOnCompletion:$false `
+-SysvolPath "C:\Windows\SYSVOL" `
+-Force:$true
+

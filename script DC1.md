@@ -1,5 +1,11 @@
 
-``` powershell
+fichier csv avec ca dedans
+``` csv
+Prenom,Nom,SAM,Domaine,Password Jean,Dupont,jdupont,mondomaine.local,P@ssw0rd! Marie,Durand,mdurand,mondomaine.local,P@ssword123 Paul,Martin,pmartin,mondomaine.local,123P@ssword!
+```
+
+
+
 
 # Importer le module Active Directory si nécessaire
 
@@ -9,7 +15,7 @@
 
 # Définir les informations de base pour votre domaine
 
-$BaseDN = "DC=domaine,DC=assuranceplusss,DC=fr"
+$BaseDN = "DC=zinzin,DC=main,DC=fr"
 
   
 
@@ -213,7 +219,31 @@ Create-OU -OUName "Autre" -ParentPath $OUServeurs
 
 Write-Host "Arborescence AD créée avec succès."
 
-```
 
-créée grace a 
-[[boucle user active directory]]
+
+
+
+# Importer le module Active Directory si necessaire
+# Import-Module ActiveDirectory
+
+# Definir le chemin de l'OU (unite d'organisation)
+$OUPath = "OU=Usr-Depart,OU=utilisateur,OU=AGDLP,DC=zinzin,DC=main,DC=fr"
+
+#  $chemincsv = "C:\Users\Administrateur\Desktop\liste.csv"
+
+$chemincsv =  Read-Host "quel est le chemin absolue du ficher csv avec les utilisateur"
+
+clear-host;
+$comptes = Import-Csv -Path $chemincsv
+foreach ($compte in $comptes)
+{
+$Displayname = $compte.Prenom + " " + $compte.Nom
+$UserFirstname = $compte.Prenom
+$UserLastname = $compte.Nom
+$SAM = $compte.SAM
+$UPN = $compte.SAM + "@zinzin.main.fr"
+$Password = $compte.Password
+
+New-ADUser -Name "$Displayname" -DisplayName "$Displayname" -SamAccountName $SAM -UserPrincipalName $UPN -GivenName "$UserFirstname" -Surname "$UserLastname" -AccountPassword (ConvertTo-SecureString $Password -AsPlainText -Force) -Enabled $true -Path "$OUPath" 
+}
+Pause
