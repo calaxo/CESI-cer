@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developement/theorie/facon de programmer, paradigme.md",
+                "file": "a ranger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "facon de programmer, paradigme"
+              "title": "a ranger"
             }
           },
           {
@@ -204,19 +204,14 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "markdown-importer:Ouvrir l'importateur Markdown": false,
-      "publish:Publier les modifications": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "publish:Publier les modifications": false
     }
   },
   "active": "bfb46d754845b984",
   "lastOpenFiles": [
-    "developement/theorie/complexité du code.md",
-    "developement/theorie/nomage.md",
-    "developement/theorie/hashmap.md",
-    "developement/theorie/paradigme programmation orientée objet.md",
-    "developement/theorie/procedurale.md",
-    "developement/theorie/paradigme programmation fonctionnelle.md",
+    "developement logiciel/workflow et git/Sans titre.md",
     "a ranger.md",
+    "developement logiciel/workflow et git",
     "etonnement/~WRL0005.tmp",
     "etonnement/~WRD0004.tmp",
     "Gestion de projet managment/technique/en plus.md",
@@ -250,12 +245,16 @@
     "Pasted image 20241209230834.png",
     "Pasted image 20241209230815.png",
     "Pasted image 20241209230721.png",
+    "developement/language/powershell/creation agdlp.md",
+    "developement/language/powershell/script ajout sous domaine.md",
+    "developement/language/powershell/installation rôle.md",
+    "developement/language/powershell/AD DS.md",
+    "developement/language/powershell/user creation/boucle user active directory.md",
     "Pasted image 20241205112109.png",
     "Pasted image 20241204144709.png",
     "developement/language/BDD et SQL",
     "SI/supervision",
     "Pasted image 20241202172137.png",
-    "developement/language/nodejs",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
