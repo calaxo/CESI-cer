@@ -121,3 +121,12 @@ pas sur que la donée existe par rapport a juste first
 
 firstindex
 avoir l'index de l'element ou -1 si existe pas
+
+
+singleton poo C#
+
+DP Singleton
+
+DP Observer
+
+interface poo C#
