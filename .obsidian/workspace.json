@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SI/CyberSecu/base.md",
+                "file": "developement logiciel/C sharp/complexe/gestion memoire/Sans titre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "base"
+              "title": "Sans titre"
             }
           },
           {
@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "718308ceb68006d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "developement logiciel/C sharp/complexe/Lambda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lambda"
+            }
+          },
+          {
             "id": "b5eac0409e78657f",
             "type": "leaf",
             "state": {
@@ -63,8 +77,7 @@
               "title": "SecNum"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -120,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200.5
   },
   "right": {
     "id": "e70f6711a6b20269",
@@ -207,10 +221,27 @@
       "publish:Publier les modifications": false
     }
   },
-  "active": "bfb46d754845b984",
+  "active": "054f84f0c404b090",
   "lastOpenFiles": [
-    "a ranger.md",
+    "developement logiciel/C sharp/complexe/gestion memoire/descturcotr.md",
+    "developement logiciel/C sharp/complexe/gestion memoire/Sans titre.md",
+    "developement logiciel/C sharp/complexe/delegate.md",
+    "developement logiciel/C sharp/complexe/gestion memoire",
+    "developement/language/JS/type/var let et autre.md",
+    "developement logiciel/C sharp/complexe/esquive de bon procédé.md",
+    "developement/language/JS/type",
+    "developement logiciel/C sharp/complexe/type anonyme.md",
+    "developement logiciel/C sharp/complexe/Lambda.md",
+    "developement/language/JS/JS.md",
+    "developement/language/JS/Le JS.md",
+    "SI/CyberSecu/base.md",
+    "SI/Protocol et Services/mib snmp.md",
     "developement logiciel/workflow et git/Sans titre.md",
+    "developement logiciel/C sharp/base/erreurs classiques.md",
+    "developement logiciel/C sharp/complexe/delegate",
+    "developement logiciel/C sharp/complexe/patern",
+    "developement logiciel/C sharp/complexe",
+    "a ranger.md",
     "developement logiciel/workflow et git",
     "etonnement/~WRL0005.tmp",
     "etonnement/~WRD0004.tmp",
@@ -226,18 +257,8 @@
     "mot clé.md",
     "developement logiciel",
     "developement logiciel/C sharp/base",
-    "developement logiciel/C sharp",
     "script projet HV1.md",
     "script NAS.md",
-    "script HV2.md",
-    "developement/language/powershell/script hyper V powershell/regle firewall pour zabbix.md",
-    "developement/language/powershell/script hyper V powershell/passer la connection en privée.md",
-    "developement/language/powershell/script hyper V powershell/autoriser ping windows.md",
-    "developement/language/powershell/script hyper V powershell/autoriser nested virtualisation.md",
-    "developement/language/powershell.zip",
-    "SI/CyberSecu/SecNum.md",
-    "developement/language/powershell/veeam/lancement de replicas si la VM est off.md",
-    "developement/language/powershell/veeam",
     "Pasted image 20241209232426.png",
     "Pasted image 20241209232408.png",
     "Pasted image 20241209231447.png",
@@ -245,14 +266,8 @@
     "Pasted image 20241209230834.png",
     "Pasted image 20241209230815.png",
     "Pasted image 20241209230721.png",
-    "developement/language/powershell/creation agdlp.md",
-    "developement/language/powershell/script ajout sous domaine.md",
-    "developement/language/powershell/installation rôle.md",
-    "developement/language/powershell/AD DS.md",
     "Pasted image 20241205112109.png",
     "Pasted image 20241204144709.png",
-    "developement/language/BDD et SQL",
-    "SI/supervision",
     "Pasted image 20241202172137.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
